@@ -23,20 +23,20 @@
     
 
     ```sh
-    // Start
-    // ONLY RUN THIS CODE IN TERMINAL
+    # Start
+    # ONLY RUN THIS CODE IN TERMINAL
 
-    // E.g.: opening vscode in the current 
-    // directory using terminal type: 
+    # E.g.: opening vscode in the current 
+    # directory using terminal type: 
     code .
 
-    // E.g.: creating dotnet project in terminal type: 
+    # E.g.: creating dotnet project in terminal type: 
     dotnet new console -o my_folder
 
-    // E.g.: running a console project in 
-    // dotnet from vscode terminal
+    # E.g.: running a console project in 
+    # dotnet from vscode terminal
     dotnet run
-    // End
+    # End
     ```
 
 #### Create, Compile and Execute C# programs.
@@ -44,19 +44,19 @@
 - This is how you create a new console project in csharp. Open to terminal and follow the instruction below:
     
     ```sh
-    // Start
-    // ONLY RUN THIS CODE IN TERMINAL
+    # Start
+    # ONLY RUN THIS CODE IN TERMINAL
 
-    // E.g.: creating dotnet project in terminal type: 
+    # E.g.: creating dotnet project in terminal type: 
     dotnet new console -o chapter_one
 
-    // E.g.: entering to the new project folder:
+    # E.g.: entering to the new project folder:
     cd chapter_one
 
-    // E.g.: Opening the new project in vscode:
+    # E.g.: Opening the new project in vscode:
     code .
     
-    // End
+    ## End
     ```
     
 - Look for a file called Program.cs in the file explorer in the left and click it.
@@ -81,13 +81,13 @@
     ```
 - Open a terminal in you vscode and type the following:
     ```sh
-    // Start
-    // ONLY RUN THIS IN TERMINAL
+    # Start
+    # ONLY RUN THIS IN TERMINAL
 
-    // E.g.: compile and execute the console project in dotnet Open vscode terminal and type: 
+    # E.g.: compile and execute the console project in dotnet Open vscode terminal and type: 
     dotnet run
 
-    // End
+    # End
     ```
 - Terminal output should print ```Hello, Gabby```.
 
