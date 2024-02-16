@@ -1,4 +1,4 @@
-=## Chapter 1
+## Chapter 1
 
 ### Objective
 
@@ -22,7 +22,7 @@
 - **Note:** Make sure that the .NET and VSCode can be accessed in the terminal (Vscode and dotnet CLI).
     
 
-    ```terminal
+    ```console
     // Start
     // ONLY RUN THIS CODE IN TERMINAL
 
@@ -43,7 +43,7 @@
 
 - This is how you create a new console project in csharp. Open to terminal and follow the instruction below:
     
-    ```terminal
+    ```console
     // Start
     // ONLY RUN THIS CODE IN TERMINAL
 
@@ -80,7 +80,7 @@
     // End
     ```
 - Open a terminal in you vscode and type the following:
-    ```terminal
+    ```console
     //Start
     // ONLY RUN THIS IN TERMINAL
 
