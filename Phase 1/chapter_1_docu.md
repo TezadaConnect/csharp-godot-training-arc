@@ -22,7 +22,7 @@
 - **Note:** Make sure that the .NET and VSCode can be accessed in the terminal (Vscode and dotnet CLI).
     
 
-    ```console
+    ```sh
     // Start
     // ONLY RUN THIS CODE IN TERMINAL
 
@@ -43,7 +43,7 @@
 
 - This is how you create a new console project in csharp. Open to terminal and follow the instruction below:
     
-    ```console
+    ```sh
     // Start
     // ONLY RUN THIS CODE IN TERMINAL
 
@@ -80,8 +80,8 @@
     // End
     ```
 - Open a terminal in you vscode and type the following:
-    ```console
-    //Start
+    ```sh
+    // Start
     // ONLY RUN THIS IN TERMINAL
 
     // E.g.: compile and execute the console project in dotnet Open vscode terminal and type: 
