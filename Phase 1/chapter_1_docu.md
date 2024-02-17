@@ -91,4 +91,65 @@
     ```
 - Terminal output should print ```Hello, Gabby```.
 
+#### Learn some of the basic C# features necessary for every C# programs
+ 
+- Let's copy this code snippet and replace our current code in our Program.cs file.
+    ```c#
+     // Start Code 1.1
+    // ONLY PASTE THIS IN Program.cs FILE
+    class Program {
+     
+        static void Main() {
+         
+            Console.WriteLine("Enter you name: ");
+             
+            string name = Console.ReadLine() ?? "Gabby";
+             
+            Console.WriteLine("Enter you age: ");
+             
+            int age = Convert.ToInt32(Console.ReadLine());
+             
+            Console.WriteLine("My name is " + name + " and my age is " + age);
+         
+        }
+     
+    }
+    // End
+    ```
+ 
+- Everytime we create a project there will be a Program.cs file.
 
+- Our main code of the program resides here.
+
+- We will skip the ```class Program {}``` syntax because it is an advance topic.
+
+- What we need to know for now is that the class name which is the ```Program``` should be the same name with the file name.
+
+- Always start the file name and the class name with an uppercase letter.
+
+- This main code includes a function signature ```static void Main()```.
+
+- This function is a special function. When we run the program, the computer will always find this function to compile and execute it.
+
+- The open and close curly brace ```{}``` represent a block, and everything inside it is encapsulated.
+
+- The complete function will be written as;
+     ```c#
+    static void Main() { 
+        /* Anything inside here is the function behavior */ 
+    }
+    ```
+
+- A function signature has a function name, in this case the function name is ```Main```.
+
+- Notice the class name and the function name starts with an uppercase letter. function name and class name follows a naming convention called **Pascal case**.
+
+    ```c#
+    // E.g: A Pascal case naming convention starts with an uppercase letter followed by lower case letters to form a word, when two words is needed, the second word first letter must be in uppercase.
+     
+    // YourName
+     
+    // StartToSink
+     
+    // CommonGround
+    ```
