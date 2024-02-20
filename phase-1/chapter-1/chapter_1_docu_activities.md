@@ -1,4 +1,4 @@
-v## Chapter 1 Activities
+## Chapter 1 Activities
 
 #### Arithmetic Operators
 
