@@ -1,4 +1,4 @@
-## Chapter 1 Activities
+v## Chapter 1 Activities
 
 #### Arithmetic Operators
 
@@ -59,3 +59,5 @@ The average of the five inputs a0...a4 = 3.14
 The following code below contains several bugs. Enter the codes into your C# editor and try to compile it. What error/warning messages do you get? In complete sentences, describe what you think each error/warning message means. Afterwards, fix the errors so that it compiles correctly.
 
 ...
+
+[**Return Back**](https://github.com/TezadaConnect/csharp-godot-training-arc/blob/main/phase-1/chapter-1/chapter_1_docu_part_2.md)
