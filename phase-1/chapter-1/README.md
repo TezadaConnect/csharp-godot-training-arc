@@ -21,4 +21,4 @@
 - This training is suppose to train you not to encourage you, the game devs industry is a world of 2 people, elites and those who outwork others.
 - If you are hit by this reminder please close your computer and sell it.
 
-[**Start Lecture**](https://)
+[**Start Lecture**](https://github.com/TezadaConnect/csharp-godot-training-arc/blob/main/phase-1/chapter-1/chapter_1_docu_part_1.md)
