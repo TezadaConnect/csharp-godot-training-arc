@@ -180,6 +180,5 @@
 - Everything is alright, but age isn't a string, how come we are able to add it into a string? The answer to that question is that C# is smart enough to determine what a programmer wanted to do. So it converted automatically into string and append it to our desired output string.
 - We have a variable ```name``` and ```age``` which we store our data that inputed from console. Again a variable is a storage of data that we can modify and access. In line 20, we access the variable. In line 14 and 18 we modify the variable.
 
-[Return Back]([https://](https://github.com/TezadaConnect/csharp-godot-training-arc/blob/main/phase-1/chapter-1/README.md)https://github.com/TezadaConnect/csharp-godot-training-arc/blob/main/phase-1/chapter-1/README.md) 
-[**Next Lecture**]([https://](https://github.com/TezadaConnect/csharp-godot-training-arc/blob/main/phase-1/chapter-1/chapter_1_docu_part_2.md)https://github.com/TezadaConnect/csharp-godot-training-arc/blob/main/phase-1/chapter-1/chapter_1_docu_part_2.md)
+[**Next Lecture**](https://github.com/TezadaConnect/csharp-godot-training-arc/blob/main/phase-1/chapter-1/chapter_1_docu_part_2.md)
 
