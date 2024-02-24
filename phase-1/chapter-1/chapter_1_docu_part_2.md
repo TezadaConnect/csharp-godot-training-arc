@@ -12,7 +12,7 @@ Defining or declaring a variable is easy here is a guide for you.
 - Declaring or defining a variable needs data types
 - Here are the list of data types for variables
 
-  ```
+  ```c#
   // List of datatypes
   
   string // string is use for storin texts.
@@ -31,7 +31,7 @@ Defining or declaring a variable is easy here is a guide for you.
 - Variable name must not start with any special characters or number
 - Naming a variable follows **Cammel case** naming convention.
 
-  ```
+  ```c#
   /* E.g.: A Cammel case naming convention starts with its first letter in lowercase. If a variable is consist of two words the second words first letter must be uppercase. */
   
   // hello
